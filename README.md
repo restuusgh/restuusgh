@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on E-commerce<br>🌱 I’m currently learning HTML, CSS, & JavaScript<br>💬 Ask me about JavaScript<br>⚡ Fun fact Sleep & Play Game
+### Hi, I'm Restu! 👋
+👩🏻‍💻 Fullstack Developer<br> 👩🏻‍🎓 Studied Informatics Engineering at the Universitas Islam Nusantara<br>🔭I’m currently working on E-commerce<br> 🎨 Linux Enthusiast<br> 💭 Currently learning about Docker & Jenskins<br>💬 Ask me about JavaScript<br>⚡ Fun fact Sleep & Play Game
 
 
 ## 🌐 Socials:
