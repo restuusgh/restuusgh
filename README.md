@@ -20,8 +20,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-# 📊 GitHub Stats:
-
 ![](https://github-readme-stats.vercel.app/api?username=restuusgh&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=restuusgh&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=restuusgh&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
