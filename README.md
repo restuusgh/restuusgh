@@ -1,10 +1,9 @@
 # 💫 About Me:
 ### Hi, I'm Restu! 👋  
 👩🏻‍💻 Frontend Developer  
-👩🏻‍🎓 Informatics Engineering @ Universitas Islam Nusantara  
-🔭 Currently working on **E-commerce Projects**  
-🎨 Linux Enthusiast & UI Lover  
-💭 Learning **Docker** & **Jenkins**  
+👩🏻‍🎓 Informatics Engineering | Universitas Islam Nusantara  
+🎨 Web Developer & UI Enthusiast  
+💭 Learning **ReactJS** & **Node.js** 
 💬 Ask me about **JavaScript & React**  
 ⚡ Fun fact: Sleep 💫 & Play Game 🎮  
 
