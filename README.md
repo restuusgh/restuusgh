@@ -3,7 +3,7 @@
 👩🏻‍💻 Frontend Developer  
 👩🏻‍🎓 Informatics Engineering | Universitas Islam Nusantara  
 🎨 Web Developer & UI Enthusiast  
-💭 Learning **ReactJS** & **Node.js** 
+💭 Currently exploring **ReactJS** and **ExpressJS**
 💬 Ask me about **JavaScript & React**  
 ⚡ Fun fact: Sleep 💫 & Play Game 🎮  
 
