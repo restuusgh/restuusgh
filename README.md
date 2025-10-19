@@ -50,7 +50,8 @@
 ---
 
 ## 🧠 Dev Metrics
-![Metrics](https://github-readme-metrics.vercel.app/api?username=restuusgh&template=classic&languages=8&base.indepth=true&base.hireable=true&config.timezone=Asia%2FJakarta)
+![Metrics](https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg)
+
 
 ---
 
