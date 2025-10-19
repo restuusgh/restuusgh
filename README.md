@@ -21,6 +21,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=restuusgh&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=restuusgh&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=restuusgh&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Restu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=restuusgh&theme=tokyonight&show_icons=true&border_radius=15&bg_color=0d1117&title_color=00ffff&icon_color=00ffff)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=restuusgh&icon=6&color=0)](https://visitcount.itsvg.in)
 
