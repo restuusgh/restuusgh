@@ -48,11 +48,6 @@
 </div>
 
 ---
-
-## 🧠 Dev Metrics
-![Metrics](https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg)
-
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=restuusgh&icon=6&color=6)](https://visitcount.itsvg.in)
