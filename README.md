@@ -4,8 +4,7 @@
 👩🏻‍🎓 Informatics Engineering | Universitas Islam Nusantara  
 🎨 Web Developer & UI Enthusiast  
 💭 Currently exploring **ReactJS** and **ExpressJS**  
-💬 Ask me about **JavaScript & React**  
-
+💬 Ask me about **JavaScript & React** <br>
 ⚡ Fun fact: Sleep 💫 & Play Game 🎮  
 
 
